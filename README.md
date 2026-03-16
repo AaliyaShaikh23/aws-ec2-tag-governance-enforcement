@@ -44,8 +44,8 @@ Place| Location of the resource
 Example:
 Key| Value
 Name| Demo
-emailID| aaliyashaikh3439@gmail.com
-phoneNo| 9022143549
+emailID| aaliyashaikh@gmail.com
+phoneNo| 965432109
 Place| Pune
 
 ---
