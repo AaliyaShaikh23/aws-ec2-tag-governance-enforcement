@@ -155,4 +155,5 @@ Implementing tag governance provides several benefits:
 ---
 
 Conclusion
+
 This project demonstrates how AWS IAM policies can enforce mandatory tagging for EC2 instances. By preventing instance creation without required tags, organizations can ensure proper governance, accurate cost tracking, and compliance in their cloud environment.
