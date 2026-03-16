@@ -128,8 +128,8 @@ Step 4: Launch EC2 With Required Tags
 Add the mandatory tags:
 
 Name → Demo
-emailID → aaliyashaikh3439@gmail.com
-phoneNo → 9022143549
+emailID → aaliyashaikh@gmail.com
+phoneNo →965432109
 Place → Pune
 
 Result:
